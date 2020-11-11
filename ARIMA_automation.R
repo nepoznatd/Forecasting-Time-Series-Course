@@ -1,7 +1,7 @@
 library(forecast)
 library(SciViews)
 
-
+#Run each block individually (denoted by [i])
 
 #[1] run the following line to choose your CSV file
 df <- read.csv(file.choose(),sep=",",header=TRUE)
