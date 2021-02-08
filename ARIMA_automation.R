@@ -35,7 +35,7 @@ forecast::Acf(d1_ln_Levels,lag.max=70,main="TITLE")
 forecast::Pacf(d1_ln_Levels,lag.max=70,main="TITLE")
 
 
-"""[5] Replace the interger '0' in the variable below with the optimal number of differences that 
+"""[*] Replace the interger '0' in the variable below with the optimal number of differences that 
 you determined from step [3]"""
 d = 0
 
